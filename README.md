@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Manocha</h1>
-<h3 align="center">A passionate Data Science learner from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Classification, Clustering**
+- 🌱 I’m currently working at **Kinerk Direct Marketing Solutions**
 
-- 💬 Ask me about **Python, FrontEnd,Basic ML**
+- 💬 Ask me about **Python, FrontEnd,Machine Learning, GenerativeAI, WebScrapping**
 
-- 📫 How to reach me **rahulmanocha21@gmail.com**
+- 📫 How to reach me **rahul.rmanocha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
